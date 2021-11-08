@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RicAndMorty1PetApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  bottom navigation menu  -->
+    <string name="location">Location</string>
+    <string name="character">Character</string>
+    <string name="episode">Episode</string>
+</resources>
